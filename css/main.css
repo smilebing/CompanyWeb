@@ -1,0 +1,49 @@
+body{
+    font-family:'Lato' !important;
+}
+
+.information{
+    margin-left: 10px;
+}
+
+.imgBorder{
+    border-width:10px;
+    border-style: solid;
+    border-color: rgb(229, 229, 229);
+    width:300px; height: 190px;max-width: 100%;max-height: 100%;
+}
+
+.whiteText{
+    color: #fff;
+}
+
+.lunboImg
+{
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+.rightWhiteBorder
+{
+    color: white;
+    border-right: 1px solid white;
+}
+
+.full
+{
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption
+{
+    padding-bottom:5px;
+}
+
+#productRightDiv .thumbnail>img
+{
+    height: 200px;
+}
+
